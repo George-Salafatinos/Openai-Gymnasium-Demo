@@ -6,7 +6,7 @@ A tabular Q-learning implementation for solving the CartPole-v1 environment from
 
 ## Overview
 
-Build from gymnasium's example for a blackjack agent. 
+Built from gymnasium's example for a blackjack agent. 
 
 This implementation uses:
 - Discretized state space with adjustable bin sizes
